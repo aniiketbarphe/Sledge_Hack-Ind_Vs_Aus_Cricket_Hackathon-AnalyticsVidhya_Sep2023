@@ -1,4 +1,4 @@
-![Final_Header_Image](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/b57280b2-37f8-45ae-bd1b-9484ac17a7c0)
+![Final_Header_Image](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/2348d997-7b52-482b-a0bf-1f256b4f91ec)
 
 # Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023
 
