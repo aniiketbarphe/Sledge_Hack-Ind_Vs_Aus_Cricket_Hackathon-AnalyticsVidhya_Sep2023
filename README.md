@@ -2,13 +2,10 @@
 
 # Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/1dbbe784-b21b-412b-826a-ae2c65000319)">
-    </td>
-  </tr>
-</table>
+**Align center:**
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/aniiketbarphe/Python_study/blob/main/Winner.jpg"> 
+</p>
 
 
 
