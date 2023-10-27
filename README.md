@@ -89,6 +89,16 @@ You need to submit the solution file similar to the sample submission file. The 
 **G5)** The submitted code file must be able to reproduce a similar score to that of the final submission file.
 
 **G6)** Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
+#
+**H) Prizes and Recognition:-** 
+
+**🏆First Prize: INR 25000 + GenAI Program worth INR 60K**
+
+**🏆Second Prize: INR 15000 + Gen AI Program worth INR 60K**
+
+**🏆Third Prize: INR 10000 + Gen AI Program worth INR 60K**
+
+**🏆Fourth to Tenth position: Gen AI Program worth INR 60K**
 
 # Summary
 
