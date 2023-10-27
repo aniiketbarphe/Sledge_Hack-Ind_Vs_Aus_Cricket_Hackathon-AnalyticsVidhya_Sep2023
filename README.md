@@ -33,34 +33,45 @@ We have provided with you a dataset containing the batting and bowling statistic
 
 You will need to predict the runs scored and wickets taken by these 30 players in the upcoming clash between India and Australia on Oct 8, 2023.
 
+#
 
-Sample Submission File
+**D) Sample Submission File:-**
 
 You need to submit the solution file similar to the sample submission file. The solution file must contain the format similar to the sample submission file given below. 
 
 ![image](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/817a0c5f-7ca0-42ed-844c-38c083522ca5)
 
-Evaluation metric
+#
 
-Your actual score will be generated only after the clash between India and Australia on Oct 8, 2023 comes to an end.
+**E) Evaluation metric:-**
 
-Your solution file will be evaluated against the actual runs and wickets taken by the player in the match and final score is the weighted average of the RMSE is calculated between the predictions and actual runs scored and wickets taken by the players.
+**E1)** Your actual score will be generated only after the clash between India and Australia on Oct 8, 2023 comes to an end.
 
-At the moment, the leaderboard displays scores calculated in comparison to the benchmark model. This provides a useful reference for enhancing the model. However, it's important to note that the final score, determined based on player statistics after the match, may vary significantly. 
+**E2)** Your solution file will be evaluated against the actual runs and wickets taken by the player in the match and final score is the weighted average of the RMSE is calculated between the predictions and actual runs scored and wickets taken by the players.
 
-The final leaderboard is displayed after the clash between India and Australia on Oct 8, 2023.
+**E3)** At the moment, the leaderboard displays scores calculated in comparison to the benchmark model. This provides a useful reference for enhancing the model. However, it's important to note that the final score, determined based on player statistics after the match, may vary significantly. 
 
-Guidelines for Final Submission
+**E4)** The final leaderboard is displayed after the clash between India and Australia on Oct 8, 2023.
 
-Please ensure that your final submission contains the following files: 
+# 
 
-Solution file containing the predictions for the runs scored and wickets taken (Format is given in sample_submission.csv)
-A zipped code file containing code & approach
-Code: Clean code with comments on each part
-Approach: Please share your approach to solve the problem (doc/ppt/pdf format). It should cover the following topics:
-A brief on the approach used to solve the problem.
-List of different experiments done.
-A brief on ideas and hacks that really worked well.
+**F) Guidelines for Final Submission:-** Please ensure that your final submission contains the following files: 
+
+**F1)** Solution file containing the predictions for the runs scored and wickets taken (Format is given in sample_submission.csv)
+
+**F2)** A zipped code file containing code & approach,
+
+**F2.1)** **Code:-** Clean code with comments on each part
+
+**F2.2)** **Approach:-** Please share your approach to solve the problem (doc/ppt/pdf format). It should cover the following topics:
+
+a) A brief on the approach used to solve the problem.
+
+b) List of different experiments done.
+
+c) A brief on ideas and hacks that really worked well.
+
+#
 
 Hackathon Rules and Conditions
 
