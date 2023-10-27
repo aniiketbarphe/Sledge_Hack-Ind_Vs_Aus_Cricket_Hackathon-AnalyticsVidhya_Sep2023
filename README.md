@@ -5,9 +5,10 @@
 ![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/a2f21780-4a72-411a-bafe-11d2bba40555)
 
 
-<div align="center">
-  <img src="![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/f06218ed-f262-4995-8fba-14e18ca57924)" width="400">
-</div>
+<p align="center">
+  <img src="![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/9afe5ff8-0537-43e3-a5de-a0f7b258a866)" width="300">
+</p>
+
 
 
 ![Final-Congrats-EMAIL-23102023](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/2e0125c9-ca0a-488d-8e3d-c410757b6511)
