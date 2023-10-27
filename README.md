@@ -13,15 +13,17 @@ Welcome to The Sledge Hack - Experience the World's Biggest Cricket Hackathon be
 
 This hackathon is a tribute to the spirit of cricket and data science enthusiasts. Join us in the pre-World Cup cricket celebration and send your best wishes to Team India on their World Cup journey! 
 
+# 
 
-Problem Statement
+**B) Problem Statement:-**
 
 Your task is to make precise predictions regarding the runs scored and wickets taken by each player who has been carefully selected to represent their respective teams, India and Australia 15 members squad in the highly anticipated ICC World Cup 2023 clash on Oct 8, 2023.
 
 To accomplish this, you will need to use data science models and techniques based upon extensive historical data encompassing both player and team performance, allowing you to offer well-informed predictions.
 
+#
 
-About the Dataset
+**C) About the Dataset:-**
 
 We have provided with you a dataset containing the batting and bowling statistics of the 30 players selected for the ICC World Cup 2023 of both teams India and Australia. The dataset contains the batting and bowling stats of each ODI played by the cricketer throughout his career.
 
