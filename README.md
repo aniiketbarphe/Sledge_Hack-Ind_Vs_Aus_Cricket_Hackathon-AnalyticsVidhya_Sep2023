@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/1dbbe784-b21b-412b-826a-ae2c65000319)" width="300">
+      <img src="![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/1dbbe784-b21b-412b-826a-ae2c65000319)">
     </td>
   </tr>
 </table>
