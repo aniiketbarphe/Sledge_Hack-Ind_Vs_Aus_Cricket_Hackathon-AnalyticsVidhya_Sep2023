@@ -90,8 +90,21 @@ You need to submit the solution file similar to the sample submission file. The 
 
 **G6)** Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
 
+# Summary
+
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 8.8974648075
+
+**2) Private Leaderboard :-** 14.3608263458
 #
-Competition Link:-
 
-https://datahack.analyticsvidhya.com/contest/the-sledge-hack/?utm_source=homepage&utm_medium=footer#LeaderBoard
+**b) Best Model:-**
+#
+**c) Competition Link:-**  https://datahack.analyticsvidhya.com/contest/the-sledge-hack/?utm_source=homepage&utm_medium=footer#LeaderBoard
+#
+**d) Rank Scored:-**
 
+**d1)** **01** out of **1073** registered participants (**Private Leaderboard**)
+
+**d2)** **14** out of **1073** registered participants (**Public Leaderboard**)
