@@ -68,27 +68,27 @@ You need to submit the solution file similar to the sample submission file. The 
 
 **F2.2)** **Approach:-** Please share your approach to solve the problem (doc/ppt/pdf format). It should cover the following topics:
 
-a) A brief on the approach used to solve the problem.
+**a)** A brief on the approach used to solve the problem.
 
-b) List of different experiments done.
+**b)** List of different experiments done.
 
-c) A brief on ideas and hacks that really worked well.
+**c)** A brief on ideas and hacks that really worked well.
 
 #
 
 **G) Hackathon Rules and Conditions:-**
 
-**G1** The final standings would be based on the score calculated after the clash between Ind vs Aus is over.
+**G1)** The final standings would be based on the score calculated after the clash between Ind vs Aus is over.
 
-**G2** Feel free to use any open source or external dataset for the hackathon.
+**G2)** Feel free to use any open source or external dataset for the hackathon.
 
-**G3** Submitting the approach document and code file in zip format is mandatory while submitting the solution file under solution checker.
+**G3)** Submitting the approach document and code file in zip format is mandatory while submitting the solution file under solution checker.
 
-**G4** Setting the final submission is recommended. Without a final submission, the submission corresponding to the best score will be taken as the final solution file.
+**G4)** Setting the final submission is recommended. Without a final submission, the submission corresponding to the best score will be taken as the final solution file.
 
-**G5** The submitted code file must be able to reproduce a similar score to that of the final submission file.
+**G5)** The submitted code file must be able to reproduce a similar score to that of the final submission file.
 
-**G6** Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
+**G6)** Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
 
 #
 Competition Link:-
