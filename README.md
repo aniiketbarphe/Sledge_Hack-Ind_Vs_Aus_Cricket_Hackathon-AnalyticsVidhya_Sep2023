@@ -76,19 +76,21 @@ c) A brief on ideas and hacks that really worked well.
 
 #
 
-Hackathon Rules and Conditions
+**G) Hackathon Rules and Conditions:-**
 
-The final standings would be based on the score calculated after the clash between Ind vs Aus is over.
-Feel free to use any open source or external dataset for the hackathon.
-Submitting the approach document and code file in zip format is mandatory while submitting the solution file under solution checker.
-Setting the final submission is recommended. Without a final submission, the submission corresponding to the best score will be taken as the final solution file.
-The submitted code file must be able to reproduce a similar score to that of the final submission file.
-The code file pertaining to your final submission is mandatory while setting the final submission.
-Entries submitted after the contest is closed, will not be considered
-Throughout the hackathon, you are expected to respect fellow hackers and act with high integrity.
-Use of multiple Login IDs will lead to immediate disqualification
-Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
+**G1** The final standings would be based on the score calculated after the clash between Ind vs Aus is over.
 
+**G2** Feel free to use any open source or external dataset for the hackathon.
+
+**G3** Submitting the approach document and code file in zip format is mandatory while submitting the solution file under solution checker.
+
+**G4** Setting the final submission is recommended. Without a final submission, the submission corresponding to the best score will be taken as the final solution file.
+
+**G5** The submitted code file must be able to reproduce a similar score to that of the final submission file.
+
+**G6** Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
+
+#
 Competition Link:-
 
 https://datahack.analyticsvidhya.com/contest/the-sledge-hack/?utm_source=homepage&utm_medium=footer#LeaderBoard
