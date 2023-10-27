@@ -2,6 +2,8 @@
 
 # Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023
 
+![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/a2f21780-4a72-411a-bafe-11d2bba40555)
+
 ![Final-Congrats-EMAIL-23102023](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/2e0125c9-ca0a-488d-8e3d-c410757b6511)
 
 
