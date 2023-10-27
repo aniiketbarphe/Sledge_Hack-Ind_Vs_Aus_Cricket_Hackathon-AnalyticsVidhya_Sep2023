@@ -100,6 +100,10 @@ You need to submit the solution file similar to the sample submission file. The 
 #
 
 **b) Best Model:-**
+
+**b1) Target Variable :-** 'RUN_SCORED' [ Ensemble Technique (SARIMA + SARIMA with best combination of parameters)]
+
+**b2) Target Variable :-** 'Wickets Taken' [ Ensemble Technique (SARIMA + SARIMA with best combination of parameters)]
 #
 **c) Competition Link:-**  https://datahack.analyticsvidhya.com/contest/the-sledge-hack/?utm_source=homepage&utm_medium=footer#LeaderBoard
 #
