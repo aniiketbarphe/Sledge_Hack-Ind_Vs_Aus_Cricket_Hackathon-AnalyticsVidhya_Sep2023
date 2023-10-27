@@ -4,7 +4,7 @@
 
 **Align right:**
 <p align="right" width="100%">
-    <img width="33%" src="![Winner](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/65068b84-9495-4046-98f1-e35e48e445a1)"> 
+    <img width="33%" src="![Winner - Copy](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/dcb4dfd7-44cd-4584-9854-0f8f6d40e902)"> 
 </p>
 
 
