@@ -2,7 +2,10 @@
 
 # Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023
 
-Are you a cricket and data science fan?
+![Final-Congrats-EMAIL-23102023](https://github.com/aniiketbarphe/Sledge_Hack-Ind_Vs_Aus_Cricket_Hackathon-AnalyticsVidhya_Sep2023/assets/84449238/2e0125c9-ca0a-488d-8e3d-c410757b6511)
+
+
+**A) About Hackathon:-**
 
 Welcome to The Sledge Hack - Experience the World's Biggest Cricket Hackathon before the upcoming epic clash between India and Australia at the ICC World Cup on Oct 8, 2023. It's a celebration of cricket passion and data science wizardry – a must for every cricket fan and data enthusiast!
 
